@@ -1,5 +1,5 @@
 {
-  "name": "node-swtordata",
+  "name": "swtordata",
   "version": "0.1.0",
   "description": "An API wrapper for swtordata.com",
   "main": "index.js",

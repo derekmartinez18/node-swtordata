@@ -2,6 +2,11 @@
 
 **Designed for version 2.2**  
 
+Available on NPM:
+```
+npm install --save swtordata
+```
+
 ```
 let swtor = require('swtordata');
 let SWTOR = new swtor("api-key", {});
